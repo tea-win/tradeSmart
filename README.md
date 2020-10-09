@@ -1,9 +1,9 @@
 # tradeSmart
 
-#Inspirtation
+# Inspirtation
 
-#What it does
+# What it does
 
-#How I built this
+# How I built this
 
 
