@@ -1,4 +1,6 @@
-# Inspirtation
+# tradeSmart
+
+#Inspirtation
 
 #What it does
 
