@@ -7,7 +7,7 @@ We decided to make it more approachable for users to experience the whole learni
 
 # What it does
 Our webapp allows beginners to pick up the data through our tables/charts. Furthermore, we also predicted the Open Price through our dataset taken from Binance API using LSTM Neural Network and then visualized our results.
-![Prediction](https://github.com/tea-win/tradeSmart/blob/master/image.png)
+![Prediction](https://github.com/tea-win/tradeSmart/blob/master/demo1.png)
 
 
 # How I built this
