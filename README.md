@@ -1,4 +1,5 @@
 # tradeSmart
+Requirements: Binance API key, Plotly, Tensorflow, Numpy, Pandas, Matplotlib, SKlearn, Keras
 
 # Inspirtation
 Anyone who first tried to invest their money in crypto trading loses a bunch of money. And learning a new concept of trading through Medium or YouTube videos is hard and boring. Now, explore and learn the concept while losing no money with our webapp.
