@@ -15,6 +15,7 @@ The front and back end were written in Python. Plotly library is used for front-
 
 # What we learned
 How to use analyze data taken from Binance APIs then train our data to predict the price for a crytocurrency.
+First time learned about the concept of RNN and LSTM 
 
 # What's next for tradeSmart
 Improving our user-interface and displaying more features on our website. 
