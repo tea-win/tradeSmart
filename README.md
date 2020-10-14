@@ -3,7 +3,7 @@
 # Inspirtation
 Anyone who first tried to invest their money in crypto trading loses a bunch of money. And learning a new concept of trading through Medium or YouTube videos is hard and boring. Now, explore and learn the concept while losing no money with our webapp.
 We decided to make it more approachable for users to experience the whole learning-process with our real-time data while losing nothing!
-![Visualization](https://github.com/tea-win/tradeSmart/blob/master/demo1.png)
+![Visualization](https://github.com/tea-win/tradeSmart/blob/master/demo2.png)
 
 # What it does
 Our webapp allows beginners to pick up the data through our tables/charts. Furthermore, we also predicted the Open Price through our dataset taken from Binance API using LSTM Neural Network and then visualized our results.
