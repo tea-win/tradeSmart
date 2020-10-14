@@ -7,7 +7,7 @@ We decided to make it more approachable for users to experience the whole learni
 # What it does
 Our webapp allows beginners to pick up the data through our tables/charts. Furthermore, we also predicted the Open Price through our dataset taken from Binance API using LSTM Neural Network and then visualized our results.
 ![Prediction](https://github.com/tea-win/tradeSmart/blob/master/image.png)
-
+![Visualization](https://github.com/tea-win/tradeSmart/blob/master/demo1.png)
 
 # How I built this
 The front and back end were written in Python. Plotly library is used for front-end. Binance APIs were implemented for our dataset. Multiple Python libraries were used to train and analyze the data like NumPy, Pandas, Matplotlib. Moreover, we also implemented Keras, SKLearn libraries for our LSTM Neural Networks
